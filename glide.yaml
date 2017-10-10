@@ -1,4 +1,4 @@
 package: github.com/ChinmayR/deptestglideA
 import:
 - package: github.com/ChinmayR/deptestglideB
-  version: "v0.1.0"
+  version: "v0.2.0"
