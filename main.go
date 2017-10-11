@@ -4,4 +4,4 @@ import (
 	"github.com/ChinmayR/deptestglideC"
 )
 
-type Cversion1 deptestglideC.BarVersion1
+type CversionAny deptestglideC.CommonVar
