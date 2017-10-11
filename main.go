@@ -1,5 +1,7 @@
 package deptestglideA
 
-import "github.com/ChinmayR/deptestglideB"
+import (
+	"github.com/ChinmayR/deptestglideC"
+)
 
-type Bversion2 deptestglideB.FooVersion2
+type Cversion1 deptestglideC.BarVersion1
