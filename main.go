@@ -1,7 +1,7 @@
 package deptestglideA
 
 import (
-	"github.com/ChinmayR/deptestglideC"
+	"github.com/ChinmayR/deptestglideB"
 )
 
-type CversionAny deptestglideC.CommonVar
+type PointToDepTestGlideBv050 deptestglideB.Cversion1

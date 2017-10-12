@@ -1,4 +1,6 @@
-hash: 38a591af6f795dec47a7ce4eb921f01a2f325cb0fbe96142507978ee0feeecba
-updated: 2017-10-11T15:37:50.249173048-07:00
-imports: []
+hash: 137e3eee33a484e14e5760f57ada5835a4697ea42929d7fea83c9cf51f6a5e29
+updated: 2017-10-11T17:21:27.483692861-07:00
+imports:
+- name: github.com/ChinmayR/deptestglideB
+  version: 571b81795d767461736e6d0ca69e5f9840bdbf0e
 testImports: []
